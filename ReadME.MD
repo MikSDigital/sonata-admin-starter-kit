@@ -1,0 +1,1 @@
+SF4 starter kit with Sonata Admin bundles
